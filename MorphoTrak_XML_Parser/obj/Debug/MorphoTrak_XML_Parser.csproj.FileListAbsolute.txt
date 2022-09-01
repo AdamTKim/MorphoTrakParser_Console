@@ -1,0 +1,7 @@
+C:\Users\kimAT\documents\visual studio 2017\Projects\MorphoTrak_XML_Parser\MorphoTrak_XML_Parser\bin\Debug\MorphoTrak_XML_Parser.exe.config
+C:\Users\kimAT\documents\visual studio 2017\Projects\MorphoTrak_XML_Parser\MorphoTrak_XML_Parser\bin\Debug\MorphoTrak_XML_Parser.exe
+C:\Users\kimAT\documents\visual studio 2017\Projects\MorphoTrak_XML_Parser\MorphoTrak_XML_Parser\bin\Debug\MorphoTrak_XML_Parser.pdb
+C:\Users\kimAT\documents\visual studio 2017\Projects\MorphoTrak_XML_Parser\MorphoTrak_XML_Parser\obj\Debug\MorphoTrak_XML_Parser.exe
+C:\Users\kimAT\documents\visual studio 2017\Projects\MorphoTrak_XML_Parser\MorphoTrak_XML_Parser\obj\Debug\MorphoTrak_XML_Parser.pdb
+C:\Users\kimAT\documents\visual studio 2017\Projects\MorphoTrak_XML_Parser\MorphoTrak_XML_Parser\obj\Debug\MorphoTrak_XML_Parser.csprojResolveAssemblyReference.cache
+C:\Users\kimAT\documents\visual studio 2017\Projects\MorphoTrak_XML_Parser\MorphoTrak_XML_Parser\obj\Debug\MorphoTrak_XML_Parser.csproj.CoreCompileInputs.cache
